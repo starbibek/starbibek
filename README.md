@@ -1,7 +1,7 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/36692434/205623693-66fd0be3-8e6c-41c7-8f7f-598d4b80be2e.png" alt="my banner /></p>
+<img src="https://user-images.githubusercontent.com/36692434/205623693-66fd0be3-8e6c-41c7-8f7f-598d4b80be2e.png" alt="my banner" /></p>
 
-### Hi there, I'm <a href="http://www.shobhit.com.np">Shobhit Paudel</a> 👋
+### <p align="center"> Hi there, I'm <a href="http://www.shobhit.com.np">Shobhit Paudel</a> 👋
 
 ### I'm a passionate mobile developer 💻 from Nepal
 
