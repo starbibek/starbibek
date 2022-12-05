@@ -7,7 +7,7 @@
 
 * 👩‍💻 I'm Currently working as flutter developer
 * 🌱 I'm currently learning django rest framework
-* ❤ I love to learning and coding
+* ❤ I love to learn and code
 * 💬 Ask Me About Anything, I am Happy to help
 * ✉ How to Reach Me: support@shobhit.com.np
 
