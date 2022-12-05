@@ -67,6 +67,8 @@
 <a href="">
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 </a>
+
+![Shobhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=starbibek&show_icons=true&theme=radical)
 <!--
 **starbibek/starbibek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
