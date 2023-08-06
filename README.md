@@ -1,6 +1,6 @@
 ### <p align="center"> Hi there, I'm <a href="http://www.shobhit.com.np">Shobhit Paudel</a> 👋
 
-### I'm a passionate Mobile Developer 💻 from Nepal, skilled in both Mobile Development 📱 and Backend Development using Django 🐍 and Flutter.
+### Passionate Mobile Developer 💻 from Nepal, proficient in Django and Flutter 📱🐍.
 
 * 👩‍💻 I'm Currently working as flutter developer
 * 🌱 I'm currently learning LangChain
