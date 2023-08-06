@@ -1,12 +1,9 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/36692434/205623693-66fd0be3-8e6c-41c7-8f7f-598d4b80be2e.png" alt="my banner" /></p>
-
 ### <p align="center"> Hi there, I'm <a href="http://www.shobhit.com.np">Shobhit Paudel</a> 👋
 
-### I'm a passionate mobile developer 💻 from Nepal
+### I'm a passionate Mobile Developer 💻 from Nepal, skilled in both Mobile Development 📱 and Backend Development using Django 🐍 and Flutter.
 
 * 👩‍💻 I'm Currently working as flutter developer
-* 🌱 I'm currently learning django rest framework
+* 🌱 I'm currently learning LangChain
 * ❤ I love to learn and code
 * 💬 Ask Me About Anything, I am Happy to help
 * ✉ How to Reach Me: support@shobhit.com.np
@@ -67,19 +64,3 @@
 <a href="">
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 </a>
-
-![Shobhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=starbibek&show_icons=true&theme=radical)
-<!--
-**starbibek/starbibek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
