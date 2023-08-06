@@ -2,7 +2,7 @@
 
 ### Passionate Mobile Developer 💻 from Nepal, proficient in Django and Flutter 📱🐍.
 
-* 👩‍💻 I'm Currently working as flutter developer
+* 👩‍💻 I'm Currently working as Flutter and Backend Developer
 * 🌱 I'm currently learning LangChain
 * ❤ I love to learn and code
 * 💬 Ask Me About Anything, I am Happy to help
