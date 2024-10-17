@@ -7,7 +7,7 @@
 * 🧑‍💻 I'm currently working on Multi-Vendor Ecommerce
 * ❤ I love to learn and code
 * 💬 Ask Me About Anything, I am Happy to help
-* ✉ How to Reach Me: support@shobhit.com.np
+* ✉ How to Reach Me: contact@shobhit.com.np
 
 # Skills and Tools
 
