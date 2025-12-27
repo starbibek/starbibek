@@ -14,7 +14,7 @@
   <a href="http://www.shobhit.com.np">
     <img src="https://img.shields.io/badge/Portfolio-shobhit.com.np-10b981?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/shobhitpaudel/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 
@@ -73,18 +73,18 @@ I am a **Senior Backend Developer** at **Sampreshan**, bridging the gap between 
 ### 📊 Github Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=00000000&hide=html,css" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=starbibek&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starbibek&layout=compact&theme=radical&hide_border=true&bg_color=00000000&hide=html,css" height="180" alt="languages graph"  />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=starbibek&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0f4c81&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=starbibek&label=Profile%20Views&color=0f4c81&style=flat" alt="Profile Views" />
 </p>
