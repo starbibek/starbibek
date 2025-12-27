@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f4c81&height=280&section=header&text=Shobhit%20Paudel&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Senior%20Backend%20%26%20Mobile%20Engineer&descAlignY=55&descAlign=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Shobhit%20Paudel&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Senior%20Backend%20and%20Mobile%20Engineer&descAlignY=55&descAlign=62" width="100%"/>
 
   <a href="http://www.shobhit.com.np">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1273DE&center=true&vCenter=true&width=600&lines=Senior+Backend+Developer+%40+Sampreshan;4+Years+Exp+in+Flutter+Mobile+Dev;3&nbsp;+Years+Exp+in+Django+Scalable+Architecture;Exploring+AI+Model+Training+%26+Integration" alt="Typing SVG" />
