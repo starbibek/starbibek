@@ -79,9 +79,7 @@ I am a **Senior Backend Developer** at **Sampreshan**, bridging the gap between 
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=starbibek&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=starbibek&theme=dark)](https://git.io/streak-stats)
 
 ---
 
