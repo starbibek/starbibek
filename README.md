@@ -34,6 +34,16 @@ I currently lead full-stack product delivery at **Sampreshan Media**, working ac
 Architecture is a sequence of trade-offs, not a stack list.
 ```
 
+### Open source
+
+#### [neplox_linkpreviewer](https://pub.dev/packages/neplox_linkpreviewer)
+
+A cross-platform Flutter package for fetching web-page metadata and rendering responsive, customizable link-preview cards. It supports metadata extraction, caching, flexible thumbnail layouts, resilient error handling, and direct metadata access for custom interfaces.
+
+**v1.1.0** · **150 pub points** · **13 likes** · Android, iOS, Linux, macOS, web, and Windows
+
+[View on pub.dev](https://pub.dev/packages/neplox_linkpreviewer) · [View source](https://github.com/starbibek/neplox_linkpreviewer)
+
 ### Selected work
 
 | Product | What I owned | Stack | Result |
