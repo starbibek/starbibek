@@ -1,88 +1,90 @@
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Shobhit%20Paudel&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Senior%20Backend%20and%20Mobile%20Engineer&descAlignY=55&descAlign=62" width="100%"/>
 
-  <a href="http://www.shobhit.com.np">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1273DE&center=true&vCenter=true&width=600&lines=Senior+Backend+Developer+%40+Sampreshan;4+Years+Exp+in+Flutter+Mobile+Dev;3&nbsp;+Years+Exp+in+Django+Scalable+Architecture;Exploring+AI+Model+Training+%26+Integration" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=240&section=header&text=Shobhit%20Paudel&fontSize=58&fontColor=F3F0E8&fontAlignY=38&animation=fadeIn&desc=I%20build%20reliable%20full-stack%20products.&descSize=19&descAlignY=58" width="100%" alt="Shobhit Paudel — I build reliable full-stack products" />
+
+<a href="https://shobhit.com.np">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=78A9FF&center=true&vCenter=true&width=720&height=48&lines=Backend+Engineer+%E2%80%A2+Django+%26+DRF;Full-Stack+Developer+%E2%80%A2+Next.js+%26+TypeScript;Mobile+Engineer+%E2%80%A2+Flutter+%26+Dart;Technical+Lead+%E2%80%A2+Systems+%26+Delivery" alt="Backend Engineer, Full-Stack Developer, Mobile Engineer, and Technical Lead" />
 </a>
 
-  <br/>
+<p>
+  Django-focused developer building APIs, web platforms, and mobile-connected systems<br/>
+  from requirements to delivery.
+</p>
 
-  <a href="mailto:contact@shobhit.com.np">
-    <img src="https://img.shields.io/badge/Email-contact%40shobhit.com.np-ef4444?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="http://www.shobhit.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-shobhit.com.np-10b981?style=flat-square&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/shobhitpaudel/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
+<p>
+  <a href="https://shobhit.com.np"><img src="https://img.shields.io/badge/Portfolio-F0B35B?style=flat-square&logo=googlechrome&logoColor=0D1117" alt="Portfolio" /></a>
+  <a href="https://shobhit.com.np/resume"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-78A9FF?style=flat-square&logo=readthedocs&logoColor=0D1117" alt="Résumé" /></a>
+  <a href="https://www.linkedin.com/in/shobhitpaudel"><img src="https://img.shields.io/badge/LinkedIn-Connect-61D6A7?style=flat-square&logo=linkedin&logoColor=0D1117" alt="LinkedIn" /></a>
+  <a href="mailto:shobhitpaudel@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Shobhit" /></a>
+</p>
 
-</div>
-
----
-
-### 👨‍💻 Professional Summary
-
-I am a **Senior Backend Developer** at **Sampreshan**, bridging the gap between scalable backend architectures and intuitive mobile experiences.
-
-* 🔭 **Backend Expert:** 3+ years architecting APIs with **Django & DRF**. Specialized in **Database Design**, **Background Tasks (Celery)**, and Real-time communication (**WebSockets/Channels**).
-* 📱 **Mobile Veteran:** 4 years of experience building cross-platform apps with **Flutter & Dart**.
-* 🧠 **Current Focus:** Deep diving into **Generative AI**, integrating LLMs, and **training custom Machine Learning models**.
-
----
-
-### 🛠 Tech Stack & Arsenal
-
-<div align="center">
-
-#### ⚙️ Backend & Architecture
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-#### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-#### 🤖 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-#### 🎨 Frontend & Styling
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### 🗄 Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<sub>Bharatpur, Chitwan, Nepal · NPT (UTC+5:45)</sub>
 
 </div>
 
 ---
 
-### 📊 Github Activity
+### About
+
+I’m a full-stack developer with a backend center of gravity and **4+ years of experience** across Django APIs, Next.js products, Flutter applications, data design, and delivery.
+
+I currently lead full-stack product delivery at **Sampreshan Media**, working across requirement discovery, backend architecture, frontend coordination, and team execution. My work spans **12 products across web and mobile**, from education ERP and healthcare operations to publishing and booking platforms.
+
+```text
+Architecture is a sequence of trade-offs, not a stack list.
+```
+
+### Selected work
+
+| Product | What I owned | Stack | Result |
+|---|---|---|---|
+| [MeroVidya](https://shobhit.com.np/work/merovidya) | Backend APIs, data design, and Flutter delivery | Django REST Framework, Flutter, PostgreSQL, Firebase | Live education ERP used by approximately 10–12 schools today |
+| [SanchoNepal](https://shobhit.com.np/work/sanchonepal) | Technical direction and full-stack delivery | Django, Next.js, TypeScript, PostgreSQL, Redis, Docker | Live publishing MVP with an architecture prepared for later product phases |
+| [CDC Clinic](https://shobhit.com.np/work/cdc-clinic) | Complete solo frontend and backend build | Django, PostgreSQL, Tailwind CSS, django-unfold | Clinic management system delivered in approximately two months |
+
+<p align="right"><a href="https://shobhit.com.np/work">Explore all 12 projects →</a></p>
+
+### Capabilities
+
+| Area | Technologies & strengths |
+|---|---|
+| **Backend systems** | Python, Django, Django REST Framework, JWT, Redis, Celery |
+| **Product interfaces** | Next.js, TypeScript, Tailwind CSS, Flutter, Dart |
+| **Data & delivery** | PostgreSQL, Docker, AWS, Firebase, Cloudinary, SMTP |
+| **Leadership** | System design, requirement discovery, team coordination, mentoring |
+
+### How I work
+
+1. **Discover the real workflow** — clarify requirements before complexity becomes code.
+2. **Design boundaries deliberately** — separate clients, APIs, data, integrations, and operations.
+3. **Ship in useful stages** — protect a clear MVP while leaving room for the next phase.
+
+### GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=starbibek&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starbibek&layout=compact&theme=radical&hide_border=true&bg_color=00000000&hide=html,css" height="180" alt="languages graph"  />
+  <a href="https://github.com/starbibek">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starbibek&theme=github_dark" alt="Shobhit Paudel's public GitHub contribution summary" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/starbibek"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=starbibek&theme=github_dark" alt="Shobhit Paudel's public GitHub statistics" /></a>
+  <a href="https://github.com/starbibek?tab=repositories"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=starbibek&theme=github_dark&exclude=HTML,CSS" alt="Languages in Shobhit Paudel's public commits" /></a>
 </div>
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=starbibek&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://github.com/starbibek">
+    <img src="https://streak-stats.demolab.com?user=starbibek&hide_border=false&border_radius=12&background=0D1117&border=26303D&stroke=26303D&ring=F0B35B&fire=F0B35B&currStreakNum=F3F0E8&sideNums=F3F0E8&currStreakLabel=78A9FF&sideLabels=9CA8B7&dates=9CA8B7" alt="Shobhit Paudel's GitHub contribution streak" />
+  </a>
+</div>
+
+<p align="center"><sub>Public GitHub activity only. Language usage reflects repository code, not proficiency.</sub></p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=starbibek&label=Profile%20Views&color=0f4c81&style=flat" alt="Profile Views" />
+  Open to strong full-time opportunities and selected freelance work.<br/>
+  <a href="mailto:shobhitpaudel@gmail.com"><strong>Start a conversation</strong></a>
 </p>
